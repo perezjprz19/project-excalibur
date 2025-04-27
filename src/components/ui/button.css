@@ -1,0 +1,46 @@
+/* src/components/ui/button.css */
+.button {
+  background-color: grey; /* Default neutral color */
+  color: white;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.button:hover {
+  background-color:darkgray;
+}
+
+.button:active {
+  transform: scale(0.98);
+}
+
+/* Correct button (green) */
+.button.correct {
+  background-color: green;
+}
+
+.button.correct:hover {
+  background-color: darkgreen;
+}
+
+/* Incorrect button (red) */
+.button.incorrect {
+  background-color: red;
+}
+
+.button.incorrect:hover {
+  background-color: darkred;
+}
+
+/* Optional: Message styling */
+.message.correct {
+  color: green;
+}
+
+.message.incorrect {
+  color: red;
+}

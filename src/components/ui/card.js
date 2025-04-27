@@ -1,4 +1,6 @@
 // src/components/ui/card.js
+import './card.css';
+
 export function Card({ children, className }) {
     return (
       <div className={`bg-white shadow-md rounded-lg ${className}`}>
