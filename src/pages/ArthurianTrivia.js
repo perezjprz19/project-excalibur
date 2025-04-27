@@ -61,8 +61,8 @@ const triviaQuestions = [
   },
   {
     question: 'Which lady gave King Arthur his sword?',
-    choices: ['Nimue', 'Guinevere', 'Morgan le Fay', 'Elaine'],
-    answer: 'Nimue'
+    choices: ['the fairy Viviane', 'Guinevere', 'Morgan le Fay', 'Elaine'],
+    answer: 'the fairy Viviane'
   },
   {
     question: 'Who was the last knight to return Excalibur to the lake?',
