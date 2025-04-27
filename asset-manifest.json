@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/project-excalibur/static/css/main.c569f062.css",
-    "main.js": "/project-excalibur/static/js/main.cd2a38ce.js",
+    "main.js": "/project-excalibur/static/js/main.6099a6e9.js",
     "index.html": "/project-excalibur/index.html",
     "main.c569f062.css.map": "/project-excalibur/static/css/main.c569f062.css.map",
-    "main.cd2a38ce.js.map": "/project-excalibur/static/js/main.cd2a38ce.js.map"
+    "main.6099a6e9.js.map": "/project-excalibur/static/js/main.6099a6e9.js.map"
   },
   "entrypoints": [
     "static/css/main.c569f062.css",
-    "static/js/main.cd2a38ce.js"
+    "static/js/main.6099a6e9.js"
   ]
 }
