@@ -118,7 +118,7 @@ export default function ArthurianTrivia() {
 
   return (
     <div className="app-container">
-      <h1 className="title">Arthurian Legends Trivia for bob</h1>
+      <h1 className="title">Arthurian Legends Trivia for Baby Name</h1>
 
       {finished ? (
         <Card className="card">
