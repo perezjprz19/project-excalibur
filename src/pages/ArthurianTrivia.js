@@ -125,9 +125,9 @@ export default function ArthurianTrivia() {
           <div className="card-content">
             <p className="result-text">You scored {score} out of {triviaQuestions.length}</p>
             {score / triviaQuestions.length >= 0.7 ? (
-              <p className="message correct">Your Arthurian name is: Morgana Shellenhamer</p>
+              <p className="message correct">Baby Name is: Morgana Hope Shellenhamer</p>
             ) : (
-              <p className="message incorrect">Try again to unlock your Arthurian name!</p>
+              <p className="message incorrect">Try again to unlock 2nd babies name!</p>
             )}
             <Button className="button" onClick={reset}>Play Again</Button>
           </div>
