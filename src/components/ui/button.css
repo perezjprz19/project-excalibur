@@ -64,10 +64,21 @@
 }
 
 /* Optional: Message styling */
-.message.correct {
-  color: green;
+.message {
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-style: italic;
+
+  & .correct {
+    color: green;
+  }
+
+  & .incorrect {
+    color: red;
+  }
 }
 
-.message.incorrect {
-  color: red;
-}
+
+
+
+
